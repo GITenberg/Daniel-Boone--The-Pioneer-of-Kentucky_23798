@@ -1,0 +1,31 @@
+_repo: Daniel-Boone--The-Pioneer-of-Kentucky_23798
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - Abbott, John Stevens Cabot
+    - John S. C. (John Stevens Cabot) Abbott
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: ''
+gutenberg_issued: '2007-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23798'
+  lccn: 04019510
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boone, Daniel, 1734-1820'
+- !lcc 'F396'
+title: 'Daniel Boone: The Pioneer of Kentucky'
+url: http://www.gutenberg.org/ebooks/23798
