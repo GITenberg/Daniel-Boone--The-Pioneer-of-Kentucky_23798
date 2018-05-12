@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1298
     wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23798#Daniel-Boone--The-Pioneer-of-Kentucky
 gutenberg_issued: '2007-12-10'
 gutenberg_type: Text
 identifiers:
